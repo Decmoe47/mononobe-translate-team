@@ -1,5 +1,3 @@
-# 物述有栖字幕组的历史
-
 2021年5月22日，物述有栖字幕组迎来了建组三周年纪念日。三周年之际，本专栏将与你一起回顾爱丽丝组的历史，了解曾经各种因缘趣事，以及大家一路走来的心路历程。
 
 事不宜迟，让我们马上进入正题吧。
@@ -8,7 +6,7 @@
 
 ## 第一任组长（2018.5~2018.6）：
 
-![](../../img/azu.png 'azu的头像 :size=100')
+![](../../img/azu.png 'azu :size=100')
 
 ### 建组前（2018.3~2018.5）
 
@@ -24,17 +22,14 @@ azu坦言，在当初，因为看到东云惠等Vtuber入驻Bilibili之后，非
 
 之后，azu也顺利得到了彩虹社的搬运授权。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714685342-f906a13d-779f-4275-b57e-13c90c55e953.png#id=rlBvd&originHeight=845&originWidth=1538&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/himehina.png '当时入驻B站的HIMEHINA的直播，能与中日两边的粉丝同时互动')
 
-当时入驻B站的HIMEHINA的直播，能与中日两边的粉丝同时互动
+![](../../img/azu烤肉.png 'azu当时的烤肉情况')
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714686215-1d0709a6-8ba2-455b-bebf-a82cda4e1ed2.png#id=mjIC6&originHeight=971&originWidth=1861&originalType=binary&ratio=1&status=done&style=none)
-
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714686928-bea28a30-512d-4e64-8224-a191edbe3f28.png#id=OaPxJ&originHeight=1018&originWidth=1919&originalType=binary&ratio=1&status=done&style=none)
-
-azu当时的烤肉情况
+![](../../img/azu烤肉_2.png 'azu当时的烤肉情况2')
 
 ### 建组后（2018.5~2018.6）
+
 这时候，有另一个男人走来。
 
 那就是mafuyu。
@@ -47,21 +42,20 @@ mafuyu主动过来询问，问azu是否需要更多的帮助。azu接受了。
 
 这就是字幕组的最初：一条龙，几个润色工具人。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714687341-f5398333-4bc9-4f8d-a505-2bed975150c2.png#id=i7h9y&originHeight=346&originWidth=975&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/一开始的播放量.png '组成立初期的播放量情况')
 
-组成立初期的播放量情况
-
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714687931-5a99794f-e90e-40d1-83d0-a345af142150.png#id=Bkp7H&originHeight=575&originWidth=860&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/一开始的转播.png)
 
 早期熟肉：[【生气了？】萝莉的傲娇是这样的！【爱丽丝流#1】](https://www.bilibili.com/video/BV1Gs411571y)
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714688507-88a93a41-fc88-49fa-9dad-550b648e9d4c.png#id=mUZCH&originHeight=473&originWidth=1185&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/azu在同传.png 'azu在那时一直坚持以这样的方式同传')
 
-azu在那时一直坚持以这样的方式同传
+## 第二任组长（2018.7~2019.5）
 
-## 第二任组长（2018.7~2019.5）：![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714688961-e978950a-87ef-43c2-b1b1-a6da6bb8ffc9.png#height=55&id=frvim&originHeight=371&originWidth=371&originalType=binary&ratio=1&status=done&style=none&width=55)mafuyu
+![](../../img/mafuyu.png 'mafuyu :size=100')
 
 ### 交接时的情况
+
 azu的学业问题临近了。
 
 为了准备大学的入学考试，azu开始忙碌了起来。于是，azu便把字幕组的工作，交给了mafuyu。这时的mafuyu，还以为只是临时当代理组长一会，等到azu忙完学业之后便会回来接手。哪曾想，这一当，就当了一年。
@@ -73,6 +67,7 @@ azu走了之后，原先搬运工作的核心不复存在。面临着组无法�
 此刻，mafuyu做的，正是把之前依靠个人的翻译工作，转为通过分配工作、团队协调来运作的翻译小组。随着搬运组变得有组织性，这个时候，才称得上是真正意义上的字幕组的出现。
 
 ### 艰难而漫长的平稳期
+
 刚开始招人其实很成功，爱丽丝组一度翻译数量比时轴多，能有翻译man这么充足的组，在那个时代还是挺少见的。这包括了到处拉人，比如斑比就是mafuyu从svc组那边拉过来的。当然也有过把爱丽丝组的翻译校对拉去别的组干活。
 
 说到这个时期进来的组员们，其中一个就是键山。
@@ -83,44 +78,38 @@ azu走了之后，原先搬运工作的核心不复存在。面临着组无法�
 
 除此之外，还有像是斑比等一些人干活最为勤奋，在哪艰难的时期撑起了整个组，在大部分组员不够活跃、而且十分缺人的情况下，保证了组的运转。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714689520-a6f0bbba-95a4-48f4-986e-f96fc0fae802.png#id=PXKU6&originHeight=370&originWidth=707&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/曾经的烤肉分工.png '图中出现的这些人承担了大部分当时字幕组的烤肉工作（图为当时的工作表截图）')
 
-图中出现的这些人承担了大部分当时字幕组的烤肉工作（图为当时的工作表截图）
+![](../../img/组号1万粉.png '2018年7月15日，爱丽丝组迎来了里程碑意义的1万粉时刻')
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714689937-c47d16f3-9d9b-4fed-8324-c07f025c9449.png#id=pOuCR&originHeight=254&originWidth=330&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/当时的粉丝数增长.png '当时组号的关注数情况')
 
-2018年7月15日，爱丽丝组迎来了里程碑意义的1万粉时刻
-
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714690478-ef3fb559-1cda-4a69-a8e1-af6fab9863d3.png#id=VhcnH&originHeight=684&originWidth=1061&originalType=binary&ratio=1&status=done&style=none)
-
-当时组号的关注数情况
-
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714691028-e291a9b7-5cae-44dc-abde-91e214c70704.png#id=lKnno&originHeight=724&originWidth=1079&originalType=binary&ratio=1&status=done&style=none)
-
-爱丽丝是当时最早在B站有人气的直播势之一
+![](../../img/与当时的同期V对比.png '爱丽丝是当时最早在B站有人气的直播势之一')
 
 ### 当了没几天后被“夺回”的新组长
+
 值得一提的是，mafuyu有一段时间因为学业繁忙的缘故，接下来很长一段时间无法再顾及组内事务。于是他任命了建组初期的元老组员之一 肝 来担任下一任组长。任命之后，mafuyu就消失了。结果没过两天，肝才刚要开始适应组长的职务时，mafuyu突然诈尸，表示放心不下组，还是想继续当下去。肝只好把组长职位还了回去。
 
 ### 三龙同传
+
 有一次直播，azu与键山、神坂空商量，尝试通过Google docs进行三人同传，你一句我一句的接下去，基本没有一句遗漏。（当初直播是文字冒险游戏，所以还需要翻译游戏内文本）这可以说是字幕组同传里极为豪华的同传阵容了。之后组里利用同传文本打轴，很快的出了熟肉。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714691709-cfc5f348-d8dd-421e-9c43-a7ef1d304582.png#id=fmYJS&originHeight=896&originWidth=1580&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/三龙同传.png)
 
-[被三人同传的直播，在后来烤出来的熟肉](https://www.bilibili.com/video/BV1YW411174X)
+[（被三人同传的直播，在后来烤出来的熟肉）](https://www.bilibili.com/video/BV1YW411174X)
 
 ### 在学习中成长
+
 在当时，组内的大部分人，包括组长，都缺乏相关的技术的经验，都是技术力弱的。大家一边工作，一边学习，不断的在学习中成长起来。组内技术力强的人教技术力弱的人，前辈教后辈，这样一代代言传身教，也算是字幕组的一贯传统。
 
 就比如说mafuyu，当时就曾四处取经，向一些组的组长请教了打轴、特效轴等技能。
 
 反过来，像scrpr等组里技术力强的人，也教会了大家如何去打轴、剪辑、压制、转播等。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714692010-d9257c62-30fe-4cfa-9e1e-df1373ff2c8e.png#id=fq6da&originHeight=104&originWidth=512&originalType=binary&ratio=1&status=done&style=none)
-
-为组员写了压制教程的scrpr
+![](../../img/scrpr.png '为组员写了压制教程的scrpr')
 
 ### 工作规范化
+
 随着人员的增加，工作标准的确立和统一便成了至关重要的问题。
 
 这个时候，scrpr发起并持续维护了组内第一个工作规范。像是翻译规范、时轴规范等等的内容，为组员确立了统一的工作标准。
@@ -130,17 +119,18 @@ azu走了之后，原先搬运工作的核心不复存在。面临着组无法�
 可以说，他是组内工作规范化的先行者和奠基人。
 
 ### 或许是组长育成所？
+
 令人惊奇的是，当时在组里的一些人后来都出去做别的组的组长了。可以说当时的爱丽丝组真的是人才辈出。
 
 比如：
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714692257-24e423d8-5a06-4309-9ad8-bc7714813930.png#id=ivHyu&originHeight=34&originWidth=92&originalType=binary&ratio=1&status=done&style=none)阿肝，轴校（培养轴man的学校）校长，铃鹿诗子组组长。
+![](../../img/肝.png '阿肝，轴校（培养轴man的学校）校长，铃鹿诗子组组长')
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714692415-164a4a99-a1d1-4db9-9d70-0fd6cc7c37a9.png#id=webC6&originHeight=31&originWidth=116&originalType=binary&ratio=1&status=done&style=none)svc叮咚保护协会组组长。
+![](../../img/美羽.png 'svc叮咚保护协会组组长')
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714692640-ec83fb41-c52a-4d32-9972-bf853e6818bd.png#id=OPyX0&originHeight=31&originWidth=121&originalType=binary&ratio=1&status=done&style=none)娜娜，小町ノノ组组长。
+![](../../img/娜娜.png '娜娜，小町ノノ组组长')
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714693046-ddf5566d-c87c-4052-af42-bf94c01aeeef.png#id=MuzCv&originHeight=27&originWidth=120&originalType=binary&ratio=1&status=done&style=none)光年，百鬼绫目组组长。
+![](../../img/光年.png '光年，百鬼绫目组组长')
 
 ![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714693272-85378019-ea1c-43b9-9eca-99131f2b8b58.png#id=J1JZR&originHeight=23&originWidth=116&originalType=binary&ratio=1&status=done&style=none)熊熊，雨森小夜组组长。
 
