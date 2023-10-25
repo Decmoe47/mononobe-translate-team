@@ -132,97 +132,117 @@ azu走了之后，原先搬运工作的核心不复存在。面临着组无法�
 
 ![](../../img/光年.png '光年，百鬼绫目组组长')
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714693272-85378019-ea1c-43b9-9eca-99131f2b8b58.png#id=J1JZR&originHeight=23&originWidth=116&originalType=binary&ratio=1&status=done&style=none)熊熊，雨森小夜组组长。
+![](../../img/熊熊.png '熊熊，雨森小夜组组长')
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714693512-00321919-4ab5-48a4-a9c8-5faca25b83a0.png#id=yEy3t&originHeight=30&originWidth=123&originalType=binary&ratio=1&status=done&style=none)翔一，童田明治组组长。
+![](../../img/翔一.png '翔一，童田明治组组长')
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714693749-72a45edd-e330-40b8-ba4c-df783cc57ddf.png#id=aTe5X&originHeight=25&originWidth=97&originalType=binary&ratio=1&status=done&style=none)药王，姬川セリナ组组长。
+![](../../img/药王.png '药王，姬川セリナ组组长')
 
 ### 题外话：mafuyu的女装
+
 mafuyu的女装其实是在进字幕组之前就开始了。一是因为本身体型比较适合，二是认为能通过这种方式调节组里的气氛也挺好的。高中的时候女装比较多，因为能藏到妹妹那儿（女装都是妹妹帮忙摄影的）；但到了大学之后就不行了，所以就很少女装了。
 
 在组10万粉纪念直播上半场结束后的中场休息时间公布了mafuyu的女装照，引得众人惊叹。值得一提的是，这次也被爱丽丝看到了。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714694142-9aaed1b7-04c0-4dbc-a8f5-bfa04dd71942.png#id=kNe1f&originHeight=139&originWidth=413&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/mafuyu被爱丽丝看到女装.png)
 
 在被爱丽丝看到女装前的mafuyu：
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714694557-b0678bf6-b704-44cc-9e24-9b5c5ff23a1a.png#id=VMKbG&originHeight=203&originWidth=412&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/mafuyu在被爱丽丝看到女装前.png)
 
 在被爱丽丝看到女装后的mafuyu：
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714694738-3cd589c2-0863-469d-adfd-961a70e0fd7c.png#id=JPPOm&originHeight=66&originWidth=369&originalType=binary&ratio=1&status=done&style=none)![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714695230-fb223bd3-14e1-4cfb-a3cb-3cfcee94c81c.png#id=EOCiq&originHeight=65&originWidth=375&originalType=binary&ratio=1&status=done&style=none)![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714695740-2d49ec0c-61b9-419c-98f3-e7848120fd54.png#id=lLfP3&originHeight=66&originWidth=376&originalType=binary&ratio=1&status=done&style=none)![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714696259-d7a0d8b3-9ba0-44cd-a1ce-f33aade2b61d.png#id=CyIha&originHeight=151&originWidth=377&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/mafuyu在被爱丽丝看到女装后1.png)
+![](../../img/mafuyu在被爱丽丝看到女装后2.png)
+![](../../img/mafuyu在被爱丽丝看到女装后3.png)
+![](../../img/mafuyu在被爱丽丝看到女装后4.png)
 
 能被爱丽丝认可是JK，可是件好事啊（）
 
-## 第三任组长（2019.6~2019.7）：![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714698777-6a6a600e-6ded-4a42-8227-c95bc4f720cf.png#height=51&id=udvSq&originHeight=600&originWidth=600&originalType=binary&ratio=1&status=done&style=none&width=51)鍵山やくゆき
+## 第三任组长（2019.6~2019.7）
+
+![](../../img/键山.png '鍵山やくゆき :size=100')
 
 ### 交接时的情况
+
 正可以是说历史的重现。当初azu因为学业问题将组长移交给了mafuyu，此刻，意外受任组长一年之长的mafuyu，为了准备大学的考试（以及自己比较D），就把组长的位置，转给了能干的键山。
 
 这几乎可以说是一个必然的选择，因为在当时的组内，活跃的键山承担了组内的大部分工作，可以说和组长无异了。
 
 ### 爱丽丝开始关注字幕组
+
 在很早的时候，爱丽丝就已经知道了在B站的字幕组在翻译自己的视频，并表示很高兴。（以下是当时提及时的视频剪辑）
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714699479-f160cc24-58c1-4bcd-ba0e-f041fbc1d073.png#id=jUBiu&originHeight=892&originWidth=1593&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/爱丽丝提到bilibili.png)
 
-早期熟肉：[在直播中提到中国观众和b站的爱丽丝酱！(很短)](https://www.bilibili.com/video/BV15W411c7p5)
+（早期熟肉：[在直播中提到中国观众和b站的爱丽丝酱！(很短)](https://www.bilibili.com/video/BV15W411c7p5)）
 
 有一次台词回，键山跟国内小兔子征集台词之后翻译成日语发到推特上，然后爱丽丝还回应了。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714699944-e74269e4-5775-44a0-bd67-56187e9fc844.png#id=asX2z&originHeight=492&originWidth=949&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/征集台词.png)
 
 [当时征集的情况](https://h.bilibili.com/20036748)
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714700665-c25d170e-4cc5-4a76-a6e0-098575cbf2c2.png#id=kyW4f&originHeight=887&originWidth=1599&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/后来在直播里念出来的.png)
 
-后来在直播里念出来的：[【熟肉】在玩游戏的时候暴露自己真实年龄的爱丽丝](https://www.bilibili.com/video/BV1Z4411t7Fy)
+（后来在直播里念出来的：[【熟肉】在玩游戏的时候暴露自己真实年龄的爱丽丝](https://www.bilibili.com/video/BV1Z4411t7Fy)）
 
 ### 爱丽丝入驻B站
+
 2019年7月，彩虹社成员入驻B站前夕的时候，一开始成员里面是没有爱丽丝的，结果后来爱丽丝来了，让组员们都吓了一大跳。不过组并没有因为受惊吓而停下脚步，依然一如既往的努力烤肉，只不过从此增加了B限熟肉这一工作。
 
 ### 与日本小兔子交流的增加
+
 键山知道日本小兔子经常使用推特后，也弄了一个推特的组号（最开始是日茗申请的账号）。看到推特上有不少日本小兔子说不会用B站，看不了爱丽丝的B限后，他觉得很难受，就整理了B站大致的使用方法发到推特上。在那之后，越来越多的日本小兔子来到了B限里，让他感到十分欣慰。
 
 当时他还看到推特上一日本小兔子よし做的爱丽丝MMD视频特别好，询问他能不能搬到B站来，结果经过一番交流后键山干脆帮他弄了一个B站账号。（[よし的B站账号](https://space.bilibili.com/411983216)）像这样帮助日本小兔子注册B站账号也有过好几次了。
 
-## 第四任组长（2019.8~今）：![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714700966-f8db2cfd-df30-4b86-8cb8-d49b0b2c5c65.png#height=55&id=j2Hct&originHeight=400&originWidth=400&originalType=binary&ratio=1&status=done&style=none&width=55)猫哥
+## 第四任组长（2019.8~今）
+
+![](../../img/猫哥.png '猫哥 :size=100')
 
 ### 交接时的情况
+
 后来键山由于公司里忙起来，没时间干活了，就把组给了猫哥。猫哥在8月份之前就已经是主力烤肉人物了，只是经常跑去烤gibara，所以在猫哥当时个人事务结束后，键山为了防止猫哥逃跑，果断把组长甩给了猫哥。（虽然公司加班也是事实）
 
 ### B限激光烤肉
+
 一开始爱丽丝B限频率很低，每次播的时间也少，猫哥觉得剪辑出来也挺麻烦，于是经常全熟。后来B限频率上升，每次播的时间从1个小时到2、3个小时，全熟不再是那么容易承受得起的事，所以转为了以剪辑为主。这既是好事，也是辛苦事。
 
 ### 吃日本小兔子进组
+
 当时键山哥联系比较多的是よし，而猫哥自己上推之后碰见的是紅天狗茸（べにてん）。然后和紅天狗茸聊的比较好，就问他要不要来组里的QQ群。猫哥告诉了他注册的方法，但是日本那边注册QQ的话手机总是接不到验证码，搞了半天终于解决后紅天狗茸成功进入了组的群。
 
 和紅天狗茸一起进来的还有けんご。但是けんごさん比较忙，很少露面。之后又来了一个AH。所以现在组里其实是有三个日本兔。
 
 ### 工作流与项目管理的完善
+
 2020年2月，组员Decmoe47就任“制作进行”。为了整治组内杂乱的文件与项目管理情况，他首先将工作规范制定出来，然后向全组推广。前期并没有很多人知道这回事，或者说没有在意这回事，因此Decmoe47坚持监督组员有没有遵守工作规范，一个一个去找他们，向他们介绍工作规范，纠正他们的问题。当时，光是完善工作规范，就花了三个月。而推广花的时间更久。后来，认同的人越来越多，他们也加入到监督其他组员的队伍中。至今，工作规范已在组内全面普及。
 
 关于字幕组工作流的介绍，可以移步至[https://www.bilibili.com/read/cv7575150](https://www.bilibili.com/read/cv7575150)阅读。
 
 ### 200人大组
+
 2021年，字幕组主群达到了200名成员。当然，实际干活的并没有这么多（）。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714701406-852252f8-0101-4b32-a9f2-37cb4ad9745f.png#id=iDtx3&originHeight=50&originWidth=251&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/200人大组.png)
 
 ### 与花寄组的外交（指互相吃人）
+
 2020年8月8日，爱丽丝与鹿乃进行了联动。爱丽丝组与花寄组商量过后，决定联合烤肉，烤出全熟。于是猫哥新建了爱丽丝组与花寄组联合烤肉群。在群里，双方烤肉man意外的相投，除了聊到爱丽丝与鹿乃的事之外，还聊到了烤肉的日常等家常话。当提到各自都人手不足时，突然间，有人提出要互相交换烤肉man。于是乎，花寄组几位翻译man和校对man就进入了爱丽丝组，爱丽丝组几位轴man和翻译man也进入了花寄组。
 
 ### 3小时直播的激光
+
 2020年7月24日，爱丽丝直播入驻B站一周年纪念，爱丽丝组也将这长达3小时的直播激光了。这对于爱丽丝组来说是史无前例的艰巨项目。这次直播召集了14名翻译man，12名轴man，9名校对man。由于是第一次面对3小时之长的激光，组内决定大胆创新分段实时烤肉方式，期间问题不断，但也一一克服了下来，最终于第二天成功投稿，完成激光。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714701671-d9b167d2-2fcf-4c74-96ee-964a00a1f312.png#id=kNCHd&originHeight=58&originWidth=289&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/3小时直播.png)
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714702012-06657708-b435-4954-82a0-c334de3809be.png#id=BFaoI&originHeight=327&originWidth=745&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/3小时直播的烤肉成员.png)
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714702544-487bed80-5498-4583-be75-b0942d06f21f.png#id=TX0M3&originHeight=668&originWidth=1920&originalType=binary&ratio=1&status=done&style=none)
+![](../../img/3小时直播的烤肉记录.png)
 
 ## 结语
+
 光阴似箭，岁月如梭。希望小兔子越来越多。物述有栖字幕组的发展，离不开大家的支持，希望大家踊跃加入烤肉。
 
 ---
@@ -231,10 +251,10 @@ mafuyu的女装其实是在进字幕组之前就开始了。一是因为本身�
 
 日文翻译：IanoInfero
 
-监修：猫哥
-
 润色：天狐公主莎莎
 
-物述有栖字幕组
+监修：猫哥
 
-2021年5月29日
+<div style="text-align:end;">物述有栖字幕组</div>
+
+<div style="text-align:end;">2021年5月29日</div>
