@@ -4,15 +4,14 @@
 
 事不宜迟，让我们马上进入正题吧。
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714683238-42b30fe4-56a4-4207-965b-8a87e8683359.png#id=GLIIS&originHeight=2457&originWidth=1617&originalType=binary&ratio=1&status=done&style=none)
-
-爱丽丝组年表
+![](../../img/年表.png '爱丽丝组年表')
 
 ## 第一任组长（2018.5~2018.6）：
 
-![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714683827-21dc69a3-e462-4317-976a-af0b152a2281.png#height=49&id=KhZF1&originHeight=640&originWidth=640&originalType=binary&ratio=1&status=done&style=none&width=49)azu
+![](../../img/azu.png 'azu的头像 :size=100')
 
 ### 建组前（2018.3~2018.5）
+
 那是一个没有风雨交加，也没有电闪雷鸣的夜晚，azu决定要搬运和翻译爱丽丝的视频。那时的他，还没有想过建立字幕组，只是一个人自己翻译，只是用自己的个人号进行了投稿。
 
 是什么促使他走上搬运翻译这条不见底不赚钱的用爱发电之路呢？
