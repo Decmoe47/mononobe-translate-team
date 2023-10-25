@@ -1,3 +1,5 @@
+# 物述有栖字幕组的历史
+
 2021年5月22日，物述有栖字幕组迎来了建组三周年纪念日。三周年之际，本专栏将与你一起回顾爱丽丝组的历史，了解曾经各种因缘趣事，以及大家一路走来的心路历程。
 
 事不宜迟，让我们马上进入正题吧。
@@ -6,7 +8,9 @@
 
 爱丽丝组年表
 
-## 第一任组长（2018.5~2018.6）：![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714683827-21dc69a3-e462-4317-976a-af0b152a2281.png#height=49&id=KhZF1&originHeight=640&originWidth=640&originalType=binary&ratio=1&status=done&style=none&width=49)azu
+## 第一任组长（2018.5~2018.6）：
+
+![](https://cdn.nlark.com/yuque/0/2021/png/2350898/1629714683827-21dc69a3-e462-4317-976a-af0b152a2281.png#height=49&id=KhZF1&originHeight=640&originWidth=640&originalType=binary&ratio=1&status=done&style=none&width=49)azu
 
 ### 建组前（2018.3~2018.5）
 那是一个没有风雨交加，也没有电闪雷鸣的夜晚，azu决定要搬运和翻译爱丽丝的视频。那时的他，还没有想过建立字幕组，只是一个人自己翻译，只是用自己的个人号进行了投稿。
