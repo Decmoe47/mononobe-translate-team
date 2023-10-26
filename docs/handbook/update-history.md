@@ -1,5 +1,10 @@
 
+## V5.3.1（2023-10-26）
+
+- 迁移到Github Pages
+
 ## V5.3.0（2022-10-06）
+
 - 针对短视频和粗剪子项目，新增字幕文件“已翻”关键词。
 - 新增了“子项目类型”。
 
@@ -16,20 +21,20 @@
 
 ## V5.1.1（2021-09-08）
 
-- 新增了“[爱丽丝组名片](https://www.yuque.com/decmoe47/qc69ed/dyfbuu#IDeoR)”一节。
+- 新增了“爱丽丝组名片”一节。
 
 ## V5.1.0（2021-08-23）
 
-- 新增了“[封面](https://www.yuque.com/decmoe47/qc69ed/equ4v3)”的职务规范一节。
-- 新增了“[担任其他新的职位](https://www.yuque.com/decmoe47/qc69ed/igt4fu)”一节。
-- 新增了“[物述有栖字幕组的历史](https://www.yuque.com/decmoe47/qc69ed/cc3pau)”一节（及其日文版）。
-- “[上传和下载文件](https://www.yuque.com/decmoe47/qc69ed/mq2bgi)”一节新增了“[插下载链接](https://www.yuque.com/decmoe47/qc69ed/mq2bgi#F2esQ)”一章。
+- 新增了“封面”的职务规范一节。
+- 新增了“担任其他新的职位”一节。
+- 新增了“物述有栖字幕组的历史”一节（及其日文版）。
+- “上传和下载文件”一节新增了“插下载链接”一章。
 - 删去了首页“ikx自动录播站”的链接。
 
 ## V5.0.7（2021-05-07）
 
 - 添加了爱丽丝相关的wiki链接。
-- 新增“[ED插入推荐视频的跳转](https://www.yuque.com/decmoe47/qc69ed/brz08z#MhHUt)”一节。
+- 新增“ED插入推荐视频的跳转”一节。
 
 ## V5.0.6（2021-02-04）
 

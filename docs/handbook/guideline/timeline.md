@@ -53,11 +53,11 @@
 ![](../../img/时轴_完工3.png) 
 
 > [!TIP]
-> - **本组默认是先轴后翻。虽然允许先翻后轴的时轴man，但由于习惯先翻后轴的翻译man没几个，所以建议尽量还是先轴后翻。如果实在有有特别需要，请联系制作进行。**
+> - **本组默认是先轴后翻。虽然允许先翻后轴的时轴man，但由于习惯先翻后轴的翻译man没几个，所以建议尽量还是先轴后翻。如果实在有有特别需要，请联系杂务。**
 > - 你可能会看到工作表里的“分段”，意思就是你烤的部分是写的时长内，比如“40-60”就是让你烤视频第40分钟到第60分钟的部分。
 > - **ass文件名命名规范见“**[**字幕文件名命名规范**](/handbook/project-management/file-naming-convention.md#字幕文件名)**”。**
 > - 关于“项目”和“子项目”的概念，见“[什么是项目和子项目？](/handbook/project-management/the-concept-of-project-and-subproject.md#什么是项目和子项目)”。
-> - 工作表里的下载链接是由制作进行插入的，你无需插入链接（也无法获得正确的链接）。
+> - 工作表里的下载链接是由杂务插入的，你无需插入链接（也无法获得正确的链接）。
 
 ## 使用的软件
 
@@ -67,7 +67,7 @@
 
 ### 插件
 
-组内上传了一些Aegisub常用的插件（脚本）供烤肉man使用，点击[此链接](https://mononobealice-my.sharepoint.cn/:f:/g/personal/e307220930_mononobealice_partner_onmschina_cn/EkpWhvuzzThFgk0DLCWNAPoBnzOQEOG045K1d2qU0-5WEA?e=Kx7FpG)打开文件夹。如果你有好的插件想分享给大家的，可以上传到群文件并@制作进行。
+组内上传了一些Aegisub常用的插件（脚本）供烤肉man使用，点击[此链接](https://mononobealice-my.sharepoint.cn/:f:/g/personal/e307220930_mononobealice_partner_onmschina_cn/EkpWhvuzzThFgk0DLCWNAPoBnzOQEOG045K1d2qU0-5WEA?e=Kx7FpG)打开文件夹。如果你有好的插件想分享给大家的，可以上传到群文件并@杂务。
 
 ## 字幕样式
 

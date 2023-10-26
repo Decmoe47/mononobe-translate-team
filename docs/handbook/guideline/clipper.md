@@ -49,7 +49,7 @@
 > [!TIP]
 > - **视频文件名命名规范见“**[**剪辑视频文件名命名规范**](/handbook/project-management/file-naming-convention.md#视频文件名)**”。**
 > - 关于“项目”和“子项目”的概念，见“[什么是项目和子项目？](/handbook/project-management/the-concept-of-project-and-subproject.md#什么是项目和子项目)”。
-> - 工作表里的下载链接是由制作进行插入的，你无需插入链接（也无法获得正确的链接）。
+> - 工作表里的下载链接是由杂务插入的，你无需插入链接（也无法获得正确的链接）。
 
 ## 使用的软件
 

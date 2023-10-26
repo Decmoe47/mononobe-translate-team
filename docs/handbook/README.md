@@ -12,7 +12,7 @@
 
 注意，翻译校对man除了需要阅读“[翻译和校对规范](https://www.yuque.com/decmoe47/qc69ed/psx7ri)”外，还需要阅读“[时轴规范](https://www.yuque.com/decmoe47/qc69ed/dirtlg)”。
 
-如果阅读时遇到不懂的地方，或者在实践时遇到了困难，请在群里@制作进行。
+如果阅读时遇到不懂的地方，或者在实践时遇到了困难，请在群里@杂务。
 
 在开始之前，你还需要先记住几个文档的名称，之后会多次提及：
 
@@ -25,6 +25,6 @@
 - [物述有栖（もののべありす） - にじさんじ Wiki*](https://wikiwiki.jp/nijisanji/%E7%89%A9%E8%BF%B0%E6%9C%89%E6%A0%96)
 - [物述有栖 - 萌娘百科 万物皆可萌的百科全书](https://zh.moegirl.org.cn/%E7%89%A9%E8%BF%B0%E6%9C%89%E6%A0%96)
 
-> 记得先在[职能表](https://docs.qq.com/sheet/DQ0FDZnRacWF0SU15)中登记你的职能以及空闲时间（可根据实际情况随时更改你的空闲信息以告诉制作进行你最近是否有空）。
+> 记得先在[职能表](https://docs.qq.com/sheet/DQ0FDZnRacWF0SU15)中登记你的职能以及空闲时间（可根据实际情况随时更改你的空闲信息以告诉杂务你最近是否有空）。
 
 
