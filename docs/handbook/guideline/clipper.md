@@ -47,8 +47,8 @@
 ![](../../img/剪辑_完工2.png)
 
 > [!TIP]
-> - **视频文件名命名规范见“**[**剪辑视频文件名命名规范**](https://www.yuque.com/decmoe47/qc69ed/wyngip#e9bf48a2)**”。**
-> - 关于“项目”和“子项目”的概念，见“[什么是项目和子项目？](https://www.yuque.com/decmoe47/qc69ed/ig9i3c#JnRvf)”。
+> - **视频文件名命名规范见“**[**剪辑视频文件名命名规范**](/handbook/project-management/file-naming-convention.md#视频文件名)**”。**
+> - 关于“项目”和“子项目”的概念，见“[什么是项目和子项目？](/handbook/project-management/the-concept-of-project-and-subproject.md#什么是项目和子项目)”。
 > - 工作表里的下载链接是由制作进行插入的，你无需插入链接（也无法获得正确的链接）。
 
 ## 使用的软件
