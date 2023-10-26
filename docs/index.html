@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
   <meta charset="UTF-8">
   <title>物述有栖字幕组公开文档</title>
@@ -8,6 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
+
 <body>
   <div id="app"></div>
   <script>
@@ -20,6 +22,11 @@
       mergeNavbar: true,
       auto2top: true,
       autoHeader: true,
+      timeUpdater: {
+        text: "<hr/><div style='text-align:center'>最后更新时间: {docsify-updated}</div>",
+        formatUpdated: "{YYYY}/{MM}/{DD} {HH}:{mm}:{ss}",
+        whereToPlace: "buttom",  // "top" or "bottom", default to "bottom"
+      },
       'flexible-alerts': {
         style: 'flat',
         note: {
@@ -52,11 +59,13 @@
   <script src="//cdn.jsdelivr.net/gh/h-hg/docsify-image-caption/dist/docsify-image-caption.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
 
   <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
-      navigator.serviceWorker.register('sw.js')
+      navigator.serviceWorker.register('sw.js');
     }
   </script>
 </body>
+
 </html>
