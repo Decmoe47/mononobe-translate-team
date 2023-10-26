@@ -1,5 +1,5 @@
-
 ## 封面制作要求
+
 - 16:10
 - 大小≤5MB
 - 尺寸≥1146*717
@@ -14,6 +14,7 @@
 ## 获取原封面
 
 ### 油管原封面
+
 获取方式：[https://i.ytimg.com/vi/](https://i.ytimg.com/vi/)*****/maxresdefault.jpg
 
 将油管视频地址里“v=”后面的一串替换上面*****的地方。
@@ -23,9 +24,11 @@
 封面地址为：[https://i.ytimg.com/vi/zHWdAiEGesY/maxresdefault.jpg](https://i.ytimg.com/vi/zHWdAiEGesY/maxresdefault.jpg)
 
 ### B站原封面
+
 获取方式：[bilibili封面提取 - 好用的B站视频封面在线提取工具](https://bilicover.magecorn.com/)
 
 ### 图片扩大
+
 图片可以用waifu2x扩大像素
 
 - 网页版：[waifu2x](http://waifu2x.udp.jp/index.zh-CN.html)
